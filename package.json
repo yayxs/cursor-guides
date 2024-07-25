@@ -1,0 +1,20 @@
+{
+  "name": "bookmark-navi",
+  "version": "0.0.0",
+  "description": "书签导航：告别忘却，一键直达",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [
+    "bookmark",
+    "navi",
+    "astro"
+  ],
+  "author": "",
+  "dependencies": {
+    "astro": "^4.11.0"
+  }
+}
