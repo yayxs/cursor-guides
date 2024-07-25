@@ -1,2 +1,3 @@
 - https://bestofjs.org/
 - https://javascriptweekly.com/
+- https://help.github.com/articles/ignoring-files/
