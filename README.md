@@ -1,1 +1,2 @@
 - https://bestofjs.org/
+- https://javascriptweekly.com/
