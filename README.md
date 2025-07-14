@@ -1,3 +1,32 @@
+## Cursor
+
+Michael Truell与三位 MIT 同学——Sualeh Asif、Arvid Lunnemark 和 Aman Sanger——看准AI将重塑开发者工作方式的趋势，联手创办了 Anysphere
+
+由几位麻省理工高材生在 2022 年创立，总部在纽约布法罗
+
+并且已被包括英伟达（NVIDIA）、优步（Uber）和Adobe在内的超过一半的财富 500 强公司使用。
+
+## ARR
+
+Cursor成为历史上最快达到5亿美元ARR的公司，这一切还是建立在“0”营销费用的基础上
+
+Annual Recurring Revenue，年经常性收入
+最近一个月的经常性收入 × 12
+
+## 2023
+
+2023-07 融资800万美元，估值达到5650万美元。
+
+## 2024
+
+2024-08-23 A轮融资中筹集到了6000多万美元，估值4亿美元 首轮融资由OpenAI Startup Fund领投，BoxGroup、GitHub前首席执行官Nat Friedman和Dropbox联合创始人Arash Ferdowsi参投。
+
+## 2025
+
+2025-01-17 1月中旬左右Cursor 宣布 1.05 亿美元 B 轮融资（1月份估值达 25~26 亿美元
+
+2025-06-07 完成了高达9亿美元的C轮融资（约合人民币65.52亿元），估值的达到了惊人的99亿美元（约人民币711亿元），相比于去年年底完成的B轮融资直接飙升了380% 本轮由Thrive Capital领投，Andreessen Horowitz、Accel和DST Global等参投
+
 ## 上下文
 
 LLM 人工智能模型
