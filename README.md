@@ -52,7 +52,7 @@ LLM 人工智能模型
 
 Token 之前的 token 来预测下一个 token
 
-上下文指的的是：token的输入和token的输出
+上下文指的的是：token的输入和token的输出 包括文件、符号和对话历史记录。
 
 ![alt text](image.png)
 
@@ -149,3 +149,13 @@ Token 之前的 token 来预测下一个 token
 - 避免一次性处理大任务：可以适当的拆解小任务
 - 为每个不耦合的任务开启单独的上下文窗口
 - cursorindexignore 需要时引用它们，但又不想让光标索引所有这些文件
+
+## 下载历史的版本
+
+https://github.com/oslook/cursor-ai-downloads
+
+## Cursor Settings --> indexing
+
+Cursor 会开始学习您的代码。这被称为“索引”
+
+![](indexing.png)
