@@ -6,12 +6,22 @@ Michael Truell与三位 MIT 同学——Sualeh Asif、Arvid Lunnemark 和 Aman S
 
 并且已被包括英伟达（NVIDIA）、优步（Uber）和Adobe在内的超过一半的财富 500 强公司使用。
 
-## ARR
+```sh
+轮次 时间 融资金额 估值 主要投资者
+种子轮 2023-07 $8M $56.5M 早期投资者
+A轮 2024-08 $60M $400M OpenAI Startup Fund领投
+B轮 2025-01 $105M $2.5B Thrive Capital、a16z领投
+C轮 2025-05 $900M $9B Thrive Capital领投
 
-Cursor成为历史上最快达到5亿美元ARR的公司，这一切还是建立在“0”营销费用的基础上
+```
 
-Annual Recurring Revenue，年经常性收入
-最近一个月的经常性收入 × 12
+![](https://mdn.alipayobjects.com/one_clip/afts/img/_W8ESrWlM30AAAAAR0AAAAgAoEACAQFr/original)
+
+![](https://mdn.alipayobjects.com/one_clip/afts/img/lgE1RrZKcKYAAAAAR1AAAAgAoEACAQFr/original)
+
+![](https://mdn.alipayobjects.com/one_clip/afts/img/Urb9TLyMKV8AAAAASRAAAAgAoEACAQFr/original)
+
+```sh
 
 ## 2023
 
@@ -25,7 +35,16 @@ Annual Recurring Revenue，年经常性收入
 
 2025-01-17 1月中旬左右Cursor 宣布 1.05 亿美元 B 轮融资（1月份估值达 25~26 亿美元
 
-2025-06-07 完成了高达9亿美元的C轮融资（约合人民币65.52亿元），估值的达到了惊人的99亿美元（约人民币711亿元），相比于去年年底完成的B轮融资直接飙升了380% 本轮由Thrive Capital领投，Andreessen Horowitz、Accel和DST Global等参投
+2025-05 完成了高达9亿美元的C轮融资 估值 90～100亿美元，相比于去年年底完成的B轮融资直接飙升了380% 本轮由Thrive Capital领投，Andreessen Horowitz、Accel和DST Global等参投
+
+```
+
+## ARR
+
+Cursor成为历史上最快达到5亿美元ARR的公司，这一切还是建立在“0”营销费用的基础上
+
+Annual Recurring Revenue，年经常性收入
+最近一个月的经常性收入 × 12
 
 ## 上下文
 
