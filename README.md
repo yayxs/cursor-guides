@@ -48,6 +48,8 @@ Annual Recurring Revenue，年经常性收入
 
 ## 上下文
 
+![](context.png)
+
 LLM：指的是人工智能模型
 
 Token：LLM的输入和输出
@@ -62,6 +64,8 @@ https://tiktokenizer.vercel.app/
 
 ![alt text](image.png)
 
+上下文，它决定了模型在对话中一次可以“记住”和处理多少信息，大概分为：意图上下文和状态上下文
+
 意图上下文：
 
 ![](intent-context.png)
@@ -71,6 +75,10 @@ https://tiktokenizer.vercel.app/
 换句话说，是事实存在的。比如提供错误消息、控制台日志、图像和代码块
 
 上下文信息通常是两部分得到的：1个是用户主动提供的，1个是Cursor 这个工具通过搜索代码等方式收集得到的。
+
+Cursor 会开始学习您的代码。这被称为“索引”
+
+![](indexing.png)
 
 模型会自动评估，结合对话，从当前文件或者其他文件中获取相关的信息
 
@@ -98,6 +106,10 @@ https://tiktokenizer.vercel.app/
 过少的上下文（模型能力不足的情况）容易幻觉；或者过多的上下文又会稀释
 使用 @Files & Folders 来缩小上下文范围
 
+上下文的信息：包括您的代码 对话、回复、以及文档或者提供额外的上下文
+
+不同的模型的上下文长度不一样
+
 ## 模型选择
 
 20美元买的 Cursor 虽然大多数主流模型都支持，不过不同的任务，可能需要不同的模型。
@@ -118,6 +130,8 @@ https://tiktokenizer.vercel.app/
 非思考模型：如果某些任务是确定的
 进行精确、受控的更改、需要更多提示、
 
+Planning then
+
 ### 总结
 
 如何在模型池中选择：
@@ -127,7 +141,7 @@ https://tiktokenizer.vercel.app/
 - 明确知道自己修改什么 sonnet gemini
 - 规划解决一个问题 opus
 
-## 文档
+## 文档的使用
 
 本质的原因是大语言模型的训练知识的截止时间。一般都是过去式。会有几个问题：
 
@@ -155,9 +169,3 @@ https://tiktokenizer.vercel.app/
 ## 下载历史的版本
 
 https://github.com/oslook/cursor-ai-downloads
-
-## Cursor Settings --> indexing
-
-Cursor 会开始学习您的代码。这被称为“索引”
-
-![](indexing.png)
