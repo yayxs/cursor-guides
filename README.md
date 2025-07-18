@@ -233,3 +233,21 @@ Tip 勤用Commit
 ### 拖放
 
 将文件拖放到Cursor的对话中 是添加图片、代码和其他文件的快捷方式，这往往是让人容易忽略的
+
+## 地区限制
+
+背景可以看官方文档： https://docs.cursor.com/account/regions 由于模型厂商的地区限制问题，导致中国大陆使用Cursor 出现问题
+
+### 解决办法
+
+在 Cursor的设置中，把 HTTP2 修改为 HTTP1.1
+![alt text](image-1.png)
+
+如果还不可以的话
+
+![alt text](image-2.png)
+
+`Command + Shift + P` 打开设置，然后搜索 **proxy** 配置一下编辑器的本地代理，比如 http://127.0.0.1:7890 其中7890是端口，需要和你的代理软件代理的端口一致
+![alt text](image-3.png)
+
+![alt text](image-4.png)
